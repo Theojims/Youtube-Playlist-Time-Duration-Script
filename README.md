@@ -1,1 +1,1 @@
-# Youtube-Playlist-Time-Duration-Script
+# Youtube-Playlist-Total-Time-Duration-Script
